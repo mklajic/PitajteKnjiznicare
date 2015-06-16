@@ -1,0 +1,76 @@
+.pretraga{ margin-top: 10px;
+
+}
+
+.icon-bar{margin-top: 35px;
+			background-color: #FFFFFF;
+			} 			
+
+.expand{background: #DE770F;
+	acti 
+margin-top: 18px
+		}
+
+.expand:hover{background: #F08A24;
+		}
+.tab{
+    text-align: center;
+}
+
+.dugme{
+margin-top: 15px;	
+	
+}
+
+a{
+	color: #000000;
+}
+
+a:hover{
+	color: #DB111C;
+}
+
+.op{
+	margin-top: 15px;
+}
+
+table tr {
+    cursor: pointer;
+}
+
+.logo{margin-top: 10px;
+width: 530px;
+
+			} 	
+.pravila{ margin-top: 20px;
+		margin-bottom: 15px;
+		
+
+}
+
+nav.top-bar {
+text-align:center;
+height: 50px;
+
+}
+section.top-bar-section {
+display: inline-block;
+margin-left: -132px;
+}
+
+.logo{
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+.prijava{
+	margin-right: 15px;
+}
+
+.ikonice{
+	margin-top: 110px;
+	margin-bottom: 90px;
+	width: 195px;
+    height: 195px;
+}
+

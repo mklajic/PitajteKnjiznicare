@@ -1,0 +1,8 @@
+cd c:\xampp\mysql\bin
+mysql -uroot
+
+grant all privileges on *.* to 'edunova'@'localhost' identified by 'edunova';
+
+exit
+
+mysql -uedunova -pedunova --default_character_set=utf8 < C:\xampp\htdocs\WP10\PitajteKnjiznicare\pkffos.sql
